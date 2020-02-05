@@ -1,4 +1,4 @@
-.navbar/*----------------------------------------------------
+/*----------------------------------------------------
 @File: Default Styles
 @Author: Spondon IT
 
@@ -285,7 +285,8 @@ a {
     border-top: 1px solid rgba(221, 221, 221, 0.38); }
     .header_area .navbar .right_nav hr {
       height: 80px;
-      width: 1px;
+      width: 100%;
+
       background: rgba(221, 221, 221, 0.38);
       padding: 0;
       margin: 0; }
